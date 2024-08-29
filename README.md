@@ -1,2 +1,2 @@
 # html-portfolio
-My first project during my first week of learning HTML. 
+My first project done during my first week of learning HTML. 
